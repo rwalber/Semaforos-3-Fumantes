@@ -13,21 +13,31 @@ outro fumante.
 Exemplo de saída:
 
 Produtos a venda: [Tabaco, Fósforo]
+
 Produtos a venda: [Tabaco, Fósforo]
+
 Produtos a venda: [Tabaco, Fósforo]
+
 Fumante 2 possui: [Tabaco]
+
 Fumante 2 está com o vendedor, agora possui: [Tabaco, Fósforo]
   
 Produtos a venda: [Papel, Tabaco]
+
 Fumante 3 possui: [Papel]
+
 Fumante 3 está com o vendedor, agora possui: [Papel, Tabaco]
   
 Produtos a venda: [Fósforo, Tabaco]
+
 Fumante 1 possui: [Fósforo]
+
 Fumante 1 está com o vendedor, agora possui: [Fósforo, Tabaco]
   
 Produtos a venda: [Papel, Tabaco]
+
 Fumante 2 possui: [Tabaco, Fósforo]
+
 Fumante 2 está com o vendedor, agora possui: [Tabaco, Fósforo, Papel]
   
 Fumante: 2 Completou o cigarro, já pode fumar..
@@ -35,6 +45,7 @@ Fumante: 2 Completou o cigarro, já pode fumar..
 Fumante: 2 Terminou de fumar, encerrando..
   
 Fumante 3 possui: [Papel, Tabaco]
+
 Fumante 3 está com o vendedor, agora possui: [Papel, Tabaco, Fósforo]
   
 Fumante: 3 Completou o cigarro, já pode fumar..
@@ -42,6 +53,7 @@ Fumante: 3 Completou o cigarro, já pode fumar..
 Fumante: 3 Terminou de fumar, encerrando..
   
 Fumante 1 possui: [Fósforo, Tabaco]
+
 Fumante 1 está com o vendedor, agora possui: [Fósforo, Tabaco, Papel]
   
 Fumante: 1 Completou o cigarro, já pode fumar..
